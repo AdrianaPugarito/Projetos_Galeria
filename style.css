@@ -1,0 +1,20 @@
+.galeria{
+  margin: 5px;
+  float: left;
+  width: 200px;
+  overflow: scroll;
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+  box-shadow: 0 0 5px rgba(117, 104, 104, 0.582);
+}
+
+.galeria:hover{
+  border-color: rgba(128, 128, 128, 0.726);
+}
+
+.desc{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 15px;
+}
